@@ -1,0 +1,21 @@
+﻿id,building,code,kind,capacity,accessible,active,managed_by
+1,Demo Building,LAB-01,LAB,44,False,True,3
+2,Demo Building,LAB-02,LAB,44,False,True,3
+3,Demo Building,LAB-03,LAB,44,False,True,3
+4,Demo Building,LAB-04,LAB,44,False,True,3
+5,Demo Building,LAB-05,LAB,44,False,True,3
+6,Demo Building,LAB-06,LAB,44,False,True,3
+7,Demo Building,LAB-07,LAB,44,False,True,3
+8,Demo Building,LAB-08,LAB,44,False,True,3
+9,Demo Building,LAB-09,LAB,44,False,True,3
+10,Demo Building,LAB-10,LAB,30,False,True,3
+11,Demo Building,ROOM-11,CLASSROOM,60,False,True,3
+12,Demo Building,ROOM-12,CLASSROOM,60,False,True,3
+13,Demo Building,ROOM-13,CLASSROOM,60,False,True,3
+14,Demo Building,ROOM-14,CLASSROOM,60,False,True,3
+15,Demo Building,ROOM-15,CLASSROOM,60,False,True,3
+16,Demo Building,ROOM-16,CLASSROOM,60,False,True,3
+17,Demo Building,ROOM-17,CLASSROOM,60,False,True,3
+18,Demo Building,ROOM-18,CLASSROOM,60,False,True,3
+19,Demo Building,ROOM-19,CLASSROOM,60,False,True,3
+20,Demo Building,ROOM-20,CLASSROOM,60,False,True,3

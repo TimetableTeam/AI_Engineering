@@ -1,0 +1,19 @@
+﻿id,email,full_name,role,state,home_department_id
+1,scheduler@tanseek.example.test,Demo Scheduler,SCHEDULER,INVITED,1
+2,coordinator@tanseek.example.test,Demo AI Coordinator,DEPARTMENT_COORDINATOR,INVITED,1
+3,lab.manager@tanseek.example.test,Demo Lab Manager,LAB_MANAGER,INVITED,1
+4,instructor01@tanseek.example.test,Demo Instructor 01,LECTURER,INVITED,1
+5,instructor02@tanseek.example.test,Demo Instructor 02,LECTURER,INVITED,1
+6,instructor03@tanseek.example.test,Demo Instructor 03,LECTURER,INVITED,1
+7,instructor04@tanseek.example.test,Demo Instructor 04,LECTURER,INVITED,1
+8,instructor05@tanseek.example.test,Demo Instructor 05,TA,INVITED,1
+9,instructor06@tanseek.example.test,Demo Instructor 06,LECTURER,INVITED,1
+10,instructor07@tanseek.example.test,Demo Instructor 07,LECTURER,INVITED,1
+11,instructor08@tanseek.example.test,Demo Instructor 08,LECTURER,INVITED,1
+12,instructor09@tanseek.example.test,Demo Instructor 09,LECTURER,INVITED,1
+13,instructor10@tanseek.example.test,Demo Instructor 10,TA,INVITED,1
+14,instructor11@tanseek.example.test,Demo Instructor 11,LECTURER,INVITED,1
+15,instructor12@tanseek.example.test,Demo Instructor 12,LECTURER,INVITED,1
+16,instructor13@tanseek.example.test,Demo Instructor 13,LECTURER,INVITED,1
+17,instructor14@tanseek.example.test,Demo Instructor 14,LECTURER,INVITED,1
+18,instructor15@tanseek.example.test,Demo Instructor 15,TA,INVITED,1

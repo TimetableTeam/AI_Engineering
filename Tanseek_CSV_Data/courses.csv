@@ -1,0 +1,6 @@
+﻿id,department_id,code,title,created_by
+1,1,AI301,Machine Learning,2
+2,1,AI302,Computer Vision,2
+3,1,AI303,Neural Networks,2
+4,1,AI304,Data Engineering,2
+5,1,AI305,Applied Statistics,2

@@ -1,0 +1,12 @@
+﻿case_id,term_id,section_id,requirement_id,instructor_id,room_id,weekday,starts_at,ends_at,student_count,room_capacity,required_room_kind,room_kind,equipment_id,required_equipment_quantity,available_equipment_quantity,availability_state,availability_kind,expected_primary_result,fixture,explanation
+VALID_BASE,1,1,1,4,1,7,09:00,11:00,38,44,LAB,LAB,1,40,44,CONFIRMED,PREFERRED,FEASIBLE,,"baseline allocation; available, capacity and equipment fit"
+ROOM_COLLISION,1,2,1,5,1,7,09:00,11:00,40,44,LAB,LAB,1,40,44,CONFIRMED,AVAILABLE,ROOM_CONFLICT,,LAB-01 already hosts baseline
+STAFF_COLLISION,1,2,1,4,3,7,09:00,11:00,40,44,LAB,LAB,1,40,44,CONFIRMED,PREFERRED,STAFF_CONFLICT,,instructor01 also qualifies for S2 and is teaching baseline S1
+GROUP_COLLISION,1,2,1,5,3,7,09:00,11:00,40,44,LAB,LAB,1,40,44,CONFIRMED,AVAILABLE,GROUP_CONFLICT,"For this test only, replace one S2 group link with AI301-S1-G1; do not mutate shared baseline data.",shared group has baseline S1 at the same time; capacity may also fail
+UNCONFIRMED,1,15,3,18,3,7,09:00,11:00,36,44,LAB,LAB,1,40,44,DRAFT,UNKNOWN,AVAILABILITY_NOT_CONFIRMED,,instructor15 submission is DRAFT
+STAFF_UNAVAILABLE,1,1,1,4,3,1,09:00,11:00,38,44,LAB,LAB,1,40,44,CONFIRMED,UNAVAILABLE,STAFF_UNAVAILABLE,,Monday 09:00 explicitly unavailable
+EQUIPMENT_SHORTAGE,1,2,1,5,2,7,09:00,11:00,40,44,LAB,LAB,1,40,30,CONFIRMED,AVAILABLE,EQUIPMENT_SHORTAGE,,requires 40 Python computers; LAB-02 has 30
+CAPACITY_SHORTAGE,1,2,1,5,10,7,09:00,11:00,40,30,LAB,LAB,1,40,44,CONFIRMED,AVAILABLE,CAPACITY_SHORTAGE,,LAB-10 capacity 30; S2 has more than 30 students
+WRONG_ROOM_TYPE,1,2,1,5,11,7,09:00,11:00,40,60,LAB,CLASSROOM,1,40,0,CONFIRMED,AVAILABLE,ROOM_TYPE_MISMATCH,,practical requires LAB
+BEYOND_HOURS,1,2,1,5,3,7,15:00,18:00,40,44,LAB,LAB,1,40,44,CONFIRMED,AVAILABLE,INVALID_DURATION,,120-minute session must end at 17:00
+NON_WORKING_DAY,1,2,1,5,3,4,09:00,11:00,40,44,LAB,LAB,1,40,44,CONFIRMED,UNKNOWN,NO_WORKING_SLOT,,Thursday has no slots
