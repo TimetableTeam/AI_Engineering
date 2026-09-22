@@ -1,0 +1,48 @@
+id,email,password_hash,full_name,role,state,home_department_id,created_by,created_at,updated_at
+1,root@tanseek.edu,$2b$12$syntheticHash01,System Root,SUPER_ADMIN,ACTIVE,,,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+2,ai.admin@tanseek.edu,$2b$12$syntheticHash02,AI Admin,ADMIN,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+3,scheduler@tanseek.edu,$2b$12$syntheticHash03,Central Scheduler,SCHEDULER,ACTIVE,,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+4,registration@tanseek.edu,$2b$12$syntheticHash04,Registration Officer,REGISTRATION_OFFICER,ACTIVE,,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+5,ai.coordinator@tanseek.edu,$2b$12$syntheticHash05,AI Coordinator,DEPARTMENT_COORDINATOR,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+6,cs.coordinator@tanseek.edu,$2b$12$syntheticHash06,CS Coordinator,DEPARTMENT_COORDINATOR,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+7,lab.manager@tanseek.edu,$2b$12$syntheticHash07,Lab Manager,LAB_MANAGER,ACTIVE,,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+8,dina.hassan@tanseek.edu,$2b$12$syntheticHash08,Dr Dina Hassan,LECTURER,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+9,karim.adel@tanseek.edu,$2b$12$syntheticHash09,Dr Karim Adel,LECTURER,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+10,mona.samir@tanseek.edu,$2b$12$syntheticHash10,Dr Mona Samir,LECTURER,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+11,ahmed.nabil@tanseek.edu,$2b$12$syntheticHash11,Dr Ahmed Nabil,LECTURER,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+12,nour.ali@tanseek.edu,$2b$12$syntheticHash12,Eng Nour Ali,TA,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+13,youssef.wael@tanseek.edu,$2b$12$syntheticHash13,Eng Youssef Wael,TA,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+14,salma.tarek@tanseek.edu,$2b$12$syntheticHash14,Eng Salma Tarek,TA,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+15,omar.hany@tanseek.edu,$2b$12$syntheticHash15,Eng Omar Hany,TA,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+16,adam.samir1@student.tanseek.edu,$2b$12$syntheticHash16,Adam Samir,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+17,aya.wael2@student.tanseek.edu,$2b$12$syntheticHash17,Aya Wael,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+18,mariam.ashraf3@student.tanseek.edu,$2b$12$syntheticHash18,Mariam Ashraf,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+19,yassin.khaled4@student.tanseek.edu,$2b$12$syntheticHash19,Yassin Khaled,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+20,malak.tarek5@student.tanseek.edu,$2b$12$syntheticHash20,Malak Tarek,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+21,omar.ramy6@student.tanseek.edu,$2b$12$syntheticHash21,Omar Ramy,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+22,laila.ibrahim7@student.tanseek.edu,$2b$12$syntheticHash22,Laila Ibrahim,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+23,ziad.hassan8@student.tanseek.edu,$2b$12$syntheticHash23,Ziad Hassan,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+24,nour.gamal9@student.tanseek.edu,$2b$12$syntheticHash24,Nour Gamal,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+25,mostafa.mahmoud10@student.tanseek.edu,$2b$12$syntheticHash25,Mostafa Mahmoud,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+26,hana.nabil11@student.tanseek.edu,$2b$12$syntheticHash26,Hana Nabil,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+27,ali.amin12@student.tanseek.edu,$2b$12$syntheticHash27,Ali Amin,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+28,farah.fathy13@student.tanseek.edu,$2b$12$syntheticHash28,Farah Fathy,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+29,youssef.adel14@student.tanseek.edu,$2b$12$syntheticHash29,Youssef Adel,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+30,salma.hany15@student.tanseek.edu,$2b$12$syntheticHash30,Salma Hany,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+31,ahmed.sayed16@student.tanseek.edu,$2b$12$syntheticHash31,Ahmed Sayed,STUDENT,ACTIVE,1,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+32,undefined.samir17@student.tanseek.edu,$2b$12$syntheticHash32,undefined Samir,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+33,undefined.wael18@student.tanseek.edu,$2b$12$syntheticHash33,undefined Wael,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+34,undefined.ashraf19@student.tanseek.edu,$2b$12$syntheticHash34,undefined Ashraf,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+35,undefined.khaled20@student.tanseek.edu,$2b$12$syntheticHash35,undefined Khaled,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+36,undefined.tarek21@student.tanseek.edu,$2b$12$syntheticHash36,undefined Tarek,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+37,undefined.ramy22@student.tanseek.edu,$2b$12$syntheticHash37,undefined Ramy,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+38,undefined.ibrahim23@student.tanseek.edu,$2b$12$syntheticHash38,undefined Ibrahim,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+39,undefined.hassan24@student.tanseek.edu,$2b$12$syntheticHash39,undefined Hassan,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+40,undefined.gamal25@student.tanseek.edu,$2b$12$syntheticHash40,undefined Gamal,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+41,undefined.mahmoud26@student.tanseek.edu,$2b$12$syntheticHash41,undefined Mahmoud,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+42,undefined.nabil27@student.tanseek.edu,$2b$12$syntheticHash42,undefined Nabil,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+43,undefined.amin28@student.tanseek.edu,$2b$12$syntheticHash43,undefined Amin,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+44,undefined.fathy29@student.tanseek.edu,$2b$12$syntheticHash44,undefined Fathy,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+45,undefined.adel30@student.tanseek.edu,$2b$12$syntheticHash45,undefined Adel,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+46,undefined.hany31@student.tanseek.edu,$2b$12$syntheticHash46,undefined Hany,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
+47,undefined.sayed32@student.tanseek.edu,$2b$12$syntheticHash47,undefined Sayed,STUDENT,ACTIVE,2,1,2027-08-01T09:00:00Z,2027-08-01T09:00:00Z
