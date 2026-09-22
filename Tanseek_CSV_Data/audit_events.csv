@@ -1,4 +1,0 @@
-id,actor_account_id,action,entity_type,entity_id,department_id,before_data,after_data,occurred_at
-1,4,COURSE_REGISTERED,student_course_registration,1,,,,2027-09-01T10:00:00Z
-2,5,SECTION_ASSIGNED,student_section_enrollment,1,,,,2027-09-02T09:00:00Z
-3,3,SCHEDULE_PUBLISHED,schedule_version,1,,,,2027-09-05T12:00:00Z
