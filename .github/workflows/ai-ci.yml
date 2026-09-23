@@ -33,3 +33,6 @@ jobs:
 
       - name: Run tests
         run: pytest
+
+      - name: Build Docker Image
+        run: docker build -t tanseek-ai:test .

@@ -1,0 +1,6 @@
+services:
+  ai:
+    build: .
+    container_name: tanseek-ai
+    ports:
+      - "8000:8000"
