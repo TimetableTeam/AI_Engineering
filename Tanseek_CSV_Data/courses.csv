@@ -1,0 +1,5 @@
+id,department_id,code,title,created_by,created_at
+1,1,AI301,Machine Learning,5,2027-08-01T09:00:00Z
+2,1,AI302,Computer Vision,5,2027-08-01T09:00:00Z
+3,2,CS301,Database Systems,6,2027-08-01T09:00:00Z
+4,2,CS302,Computer Networks,6,2027-08-01T09:00:00Z

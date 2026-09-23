@@ -1,0 +1,9 @@
+id,building,code,kind,capacity,accessible,active,managed_by
+1,Main Campus,HALL-A,LECTURE_HALL,40,true,true,7
+2,Main Campus,HALL-B,LECTURE_HALL,35,true,true,7
+3,Main Campus,LAB-C1,COMPUTER_LAB,20,true,true,7
+4,Main Campus,LAB-C2,COMPUTER_LAB,20,true,true,7
+5,Main Campus,LAB-G1,GPU_LAB,16,true,true,7
+6,Main Campus,LAB-N1,NETWORK_LAB,16,true,true,7
+7,Main Campus,HALL-S,LECTURE_HALL,10,true,true,7
+8,Main Campus,LAB-N2,NETWORK_LAB,16,true,true,7
